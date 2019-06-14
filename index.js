@@ -18,4 +18,7 @@ function sayHiToGrandma(string){
   if((string)===uppercase) {
     'YES INDEED!'
   }
+  else if ((string)===lowercase) {
+    ""
+  }
 }
